@@ -6,7 +6,7 @@ Manual folder contains temporary work which detects the location of fracture in 
 
 ### How to run:
 * Clone the repository: `git clone https://github.com/infinityAJ/Orthopod.git`
-* Head to the root folder: `cd Bone-Fracture-Detection`
+* Head to the root folder: `cd Orthopod`
 * Install requirements: `pip install -r requirements.txt`
 * Head to the `main` folder: `cd main`
 * Run `main.py`: `python main.py`
