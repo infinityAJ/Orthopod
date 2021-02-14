@@ -5,7 +5,7 @@ Using Tkinter for GUI interface
 Manual folder contains temporary work which detects the location of fracture in a given x-ray image manually(not totally, tho;)
 
 ### How to run:
-* Clone the repository: `git clone https://github.com/infinityAJ/Bone-Fracture-Detection.git`
+* Clone the repository: `git clone https://github.com/infinityAJ/Orthopod.git`
 * Head to the root folder: `cd Bone-Fracture-Detection`
 * Install requirements: `pip install -r requirements.txt`
 * Head to the `main` folder: `cd main`
