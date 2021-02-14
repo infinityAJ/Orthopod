@@ -1,4 +1,4 @@
-# Bone-Fracture-Detection-
+# Bone-Fracture-Detection : Software
 Using Tkinter for GUI interface
 
 ### Note:
